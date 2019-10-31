@@ -19,7 +19,7 @@
     "express": "~4.13.4",
     "moment-timezone": "*",
     "mongoose": "*",
-    "morgan": "~1.7.0",
+    "morgan": "~1.9.1",
     "multer": "*",
     "passport": "*",
     "passport-facebook-token": "*",
